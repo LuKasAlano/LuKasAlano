@@ -1,6 +1,7 @@
 **Olá pessoal** 👋
 
-📚Estou aprendendo: Javascript, HTML, CSS , Nodejs, 
+📚Estou aprendendo: Javascript, HTML, CSS , Nodejs
+
 🎓Simples programador em estudos..
 
 
